@@ -20,7 +20,7 @@ local odd_numbers = 1
 
 
 local even_numbers = 0
--- print the first 100 odd numbers
+-- print the first 100 even numbers
 
 function playdate.update()
 	gfx.sprite.update()
